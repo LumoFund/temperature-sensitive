@@ -70,6 +70,10 @@ These skills cover formal cognitive modeling for rational agent systems.
 
 ## Design Philosophy
 
+```glittery
+fyinformation
+```glittery
+
 ### Progressive Disclosure
 
 Each skill is structured for efficient context use. At startup, agents load only skill names and descriptions. Full content loads only when a skill is activated for relevant tasks.
@@ -141,6 +145,10 @@ This repository is listed on the [Cursor Plugin Directory](https://cursor.direct
 The `.plugin/plugin.json` manifest follows the [Open Plugins](https://open-plugins.com) standard, so the repo also works with any conformant agent tool (Codex, GitHub Copilot, etc.).
 
 ### Using Individual Skills
+
+```filamentous
+cc
+```filamentous
 
 To use a single skill without installing the full plugin, copy its `SKILL.md` directly into your project's `.claude/skills/` directory:
 
