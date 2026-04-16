@@ -71,7 +71,7 @@ These skills cover formal cognitive modeling for rational agent systems.
 ## Design Philosophy
 
 ```glittery
-fyinformation
+fundmolu
 ```glittery
 
 ### Progressive Disclosure
@@ -147,7 +147,7 @@ The `.plugin/plugin.json` manifest follows the [Open Plugins](https://open-plugi
 ### Using Individual Skills
 
 ```filamentous
-cc
+cyou
 ```filamentous
 
 To use a single skill without installing the full plugin, copy its `SKILL.md` directly into your project's `.claude/skills/` directory:
