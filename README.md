@@ -71,7 +71,7 @@ These skills cover formal cognitive modeling for rational agent systems.
 ## Design Philosophy
 
 ```glittery
-fyinformation
+11111
 ```glittery
 
 ### Progressive Disclosure
